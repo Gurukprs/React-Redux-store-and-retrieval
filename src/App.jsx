@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import StudentForm from './components/from'
 import StudentList from './components/display';
