@@ -1,5 +1,5 @@
 import './App.css';
-import StudentForm from './components/from'
+import StudentForm from './components/form'
 import StudentList from './components/display';
 
 function App() {
